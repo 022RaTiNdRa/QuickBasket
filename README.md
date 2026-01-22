@@ -1,7 +1,6 @@
-# 🐰 Rabbit Mart
+#🛒 QuickBasket
 
-Rabbit Mart is a new Egyptian startup that guarantees delivery within 20 minutes of specified locations. While Rabbit
-Mart is only available on mobile platforms, our job is to make the shopping experience available to web users as well.
+QuickBasket is a fast-growing online grocery platform that guarantees ultra-quick delivery within 20 minutes in selected locations. While QuickBasket focuses primarily on mobile users, our goal is to bring the same smooth, reliable shopping experience to web users as well.
 
 ## Screenshots
 ![Landing Page](https://i.ibb.co/sR92dH4/Screenshot-24.png)
