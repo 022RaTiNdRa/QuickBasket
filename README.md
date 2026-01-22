@@ -1,4 +1,4 @@
-#🛒 QuickBasket
+🛒 QuickBasket
 
 QuickBasket is a fast-growing online grocery platform that guarantees ultra-quick delivery within 20 minutes in selected locations. While QuickBasket focuses primarily on mobile users, our goal is to bring the same smooth, reliable shopping experience to web users as well.
 
